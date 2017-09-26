@@ -4,9 +4,9 @@
 
 Daidson Fonseca Alves
 
-=== Group NN: group name ===
+=== Group 04: denethor  ===
 
-* Nome Aluno 1 Completo, @githubuser1
+* Rodrigo Damasceno Pompilio, @rodrigodpompilio
 * Nome Aluno 2 Completo, @githubuser2
 * ...
 
