@@ -8,5 +8,5 @@ Daidson Fonseca Alves
 
 * Rodrigo Damasceno Pompilio, @rodrigodpompilio
 * Davi Pedro Da Silva, @DaviPSS      
-* ...
+* Gabriel Francisco De Araujo Melo, @Gabrieljkuchiha
 
